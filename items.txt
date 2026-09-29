@@ -1,0 +1,100 @@
+Electronic,ITM0001,I found a HP laptop,NAC10,2026-08-21,12:28,FOUND,,1,Tamiz,01780164166,HP,1200
+Document,ITM0002,Student ID Found,SAC10,2026-08-21,12:35,FOUND,,1,Tamiz,01780164166,NSU Student  ID Card,2531148042
+
+Electronic,ITM0003,My Phone got Lost,NAC10,2026-08-21,12:37,LOST,Black Mobile Cover ,2531148042,Uodoy,01780164166,Redmi,Note 10
+Document,ITM0004,I found a driving license,Parking,2026-08-21,12:54,LOST,,1,Tamiz,01780164166,Driving License,DL001
+
+Document,ITM0005,I found an academic certificate,NAC08,2026-08-17,09:15,FOUND,,1,Tamiz,01780164166,Academic Certificate,CERT001
+
+Document,ITM0006,I lost my bank card,Cafeteria,2026-08-16,17:20,LOST,,1,Tamiz,01780164166,Bank Card,CARD001
+
+Electronic,ITM0007,I found a HP laptop,NAC10,2026-08-21,12:28,FOUND,,1,Tamiz,01780164166,HP,1200
+Electronic,ITM0008,I lost a Dell laptop,Library,2026-08-20,10:15,LOST,,1,Tamiz,01780164166,Dell,2300
+Electronic,ITM0009,I found a black calculator,NAC13,2026-08-19,14:20,FOUND,,1,Tamiz,01780164166,Casio,CAL123
+Electronic,ITM0010,I lost my scientific calculator,Library,2026-08-18,09:30,LOST,,1,Tamiz,01780164166,Sharp,CAL456
+Electronic,ITM0011,I found a Samsung phone,NAC05,2026-08-17,16:10,FOUND,,1,Tamiz,01780164166,Samsung,SAM789
+Electronic,ITM0012,I lost my iPhone,Food Court,2026-08-16,13:45,LOST,,1,Tamiz,01780164166,Apple,IPH321
+Accessory,ITM0013,I found a black backpack,NAC10,2026-08-21,09:40,FOUND,,1,Tamiz,01780164166,Canvas,Black
+
+Accessory,ITM0014,I lost my backpack,Library,2026-08-20,11:20,LOST,,1,Tamiz,01780164166,Leather,Blue
+
+Accessory,ITM0015,I found a pair of glasses,SAC03,2026-08-19,15:50,FOUND,,1,Tamiz,01780164166,Plastic,Black
+
+Accessory,ITM0016,I lost my wrist watch,NAC05,2026-08-18,10:10,LOST,,1,Tamiz,01780164166,Metal,Silver
+
+Accessory,ITM0017,I found a water bottle,Cafeteria,2026-08-17,13:30,FOUND,,1,Tamiz,01780164166,Steel,Blue
+
+Accessory,ITM0018,I lost my umbrella,Parking,2026-08-16,16:45,LOST,,1,Tamiz,01780164166,Nylon,Black
+
+Book,ITM0019,I found a programming book,Library,2026-08-21,10:30,FOUND,,1,Tamiz,01780164166,Java Programming,9780135166307,Herbert Schildt
+
+Book,ITM0020,I lost my data structures book,NAC07,2026-08-20,13:10,LOST,,1,Tamiz,01780164166,Data Structures,9780262033848,Thomas Cormen
+
+Book,ITM0021,I found a mathematics book,NAC05,2026-08-19,11:45,FOUND,,1,Tamiz,01780164166,Calculus,9780134995546,James Stewart
+
+Book,ITM0022,I lost my physics book,Library,2026-08-18,14:35,LOST,,1,Tamiz,01780164166,Physics,9780134854583,Raymond Serway
+
+Book,ITM0023,I found a discrete mathematics book,SAC08,2026-08-17,16:25,FOUND,,1,Tamiz,01780164166,Discrete Mathematics,9780073383095,Kenneth Rosen
+
+Book,ITM0024,I lost my English book,Cafeteria,2026-08-16,12:15,LOST,,1,Tamiz,01780164166,English Grammar,9781108457651,Raymond Murphy
+
+Other,ITM0025,I found a set of keys,NAC10,2026-08-21,08:50,FOUND,,1,Tamiz,01780164166,House Keys
+Other,ITM0026,I lost my room keys,Library,2026-08-20,14:00,LOST,,1,Tamiz,01780164166,Room Keys
+Other,ITM0027,I found a lunch box,Cafeteria,2026-08-19,12:05,RETURNED,,1,Tamiz,01780164166,Black Lunch Box
+Other,ITM0028,I lost my lunch box,NAC08,2026-08-18,13:25,LOST,,1,Tamiz,01780164166,Red Lunch Box
+Other,ITM0029,I found a football key,Indoor Field,2026-08-17,15:15,FOUND,,1,Tamiz,01780164166,Metal Key
+Other,ITM0030,I lost my headphones case,NAC05,2026-08-16,11:35,LOST,,1,Tamiz,01780164166,Headphone Case
+Document,ITM0031,I found a student ID card,NAC105,2026-08-21,10:15,FOUND,,2531148042,Uodoy,01780164166,Student ID,2531148042
+
+Document,ITM0032,I lost my student ID card,SAC210,2026-08-20,14:30,LOST,,2531148042,Uodoy,01780164166,Student ID,2531148042
+
+Document,ITM0033,I found a bank card,Library 505,2026-08-19,11:20,FOUND,,2531148042,Uodoy,01780164166,Bank Card,BC1001
+
+Document,ITM0034,I lost my driving license,Admin Building,2026-08-18,12:45,LOST,,2531148042,Uodoy,01780164166,Driving License,DL2001
+
+Document,ITM0035,I found an academic certificate,NAC410,2026-08-17,09:30,FOUND,,2531148042,Uodoy,01780164166,Certificate,CERT3001
+
+Document,ITM0036,I lost my passport,SAC305,2026-08-16,16:10,LOST,,2531148042,Uodoy,01780164166,Passport,PAS4001
+
+Electronic,ITM0037,I found a HP laptop,NAC110,2026-08-21,12:28,FOUND,,2531148042,Uodoy,01780164166,HP,1200
+Electronic,ITM0038,I lost my Dell laptop,SAC115,2026-08-20,10:05,LOST,,2531148042,Uodoy,01780164166,Dell,2300
+Electronic,ITM0039,I found a Casio calculator,Library 601,2026-08-19,13:40,FOUND,,2531148042,Uodoy,01780164166,Casio,CAL123
+Electronic,ITM0040,I lost my scientific calculator,NAC205,2026-08-18,09:50,LOST,,2531148042,Uodoy,01780164166,Sharp,CAL456
+Electronic,ITM0041,I found a Samsung phone,SAC401,2026-08-17,15:25,FOUND,,2531148042,Uodoy,01780164166,Samsung,SAM789
+Electronic,ITM0042,I lost my iPhone,Canteen,2026-08-16,13:15,LOST,,2531148042,Uodoy,01780164166,Apple,IPH321
+Accessory,ITM0043,I found a black backpack,NAC301,2026-08-21,09:40,FOUND,,2531148042,Uodoy,01780164166,Canvas,Black
+
+Accessory,ITM0044,I lost my blue backpack,SAC205,2026-08-20,11:35,LOST,,2531148042,Uodoy,01780164166,Leather,Blue
+
+Accessory,ITM0045,I found a pair of glasses,Library 505,2026-08-19,15:50,FOUND,,2531148042,Uodoy,01780164166,Plastic,Black
+
+Accessory,ITM0046,I lost my wrist watch,NAC405,2026-08-18,10:20,LOST,,2531148042,Uodoy,01780164166,Metal,Silver
+
+Accessory,ITM0047,I found a water bottle,Canteen,2026-08-17,13:30,FOUND,,2531148042,Uodoy,01780164166,Steel,Blue
+
+Accessory,ITM0048,I lost my umbrella,Parking,2026-08-16,16:45,LOST,,2531148042,Uodoy,01780164166,Nylon,Black
+
+Book,ITM0049,I found a Java programming book,Library 601,2026-08-21,10:30,FOUND,,2531148042,Uodoy,01780164166,Java Programming,9780135166307,Herbert Schildt
+
+Book,ITM0050,I lost my data structures book,NAC215,2026-08-20,13:10,LOST,,2531148042,Uodoy,01780164166,Data Structures,9780262033848,Thomas Cormen
+
+Book,ITM0051,I found a calculus book,SAC110,2026-08-19,11:45,FOUND,,2531148042,Uodoy,01780164166,Calculus,9780134995546,James Stewart
+
+Book,ITM0052,I lost my physics book,Library 605,2026-08-18,14:35,LOST,,2531148042,Uodoy,01780164166,Physics,9780134854583,Raymond Serway
+
+Book,ITM0053,I found a discrete mathematics book,NAC305,2026-08-17,16:25,FOUND,,2531148042,Uodoy,01780164166,Discrete Mathematics,9780073383095,Kenneth Rosen
+
+Book,ITM0054,I lost my English book,SAC101,2026-08-16,12:15,LOST,,2531148042,Uodoy,01780164166,English Grammar,9781108457651,Raymond Murphy
+
+Other,ITM0055,I found a set of keys,NAC115,2026-08-21,08:50,FOUND,,2531148042,Uodoy,01780164166,House Keys
+Other,ITM0056,I lost my room keys,SAC105,2026-08-20,14:00,LOST,,2531148042,Uodoy,01780164166,Room Keys
+Other,ITM0057,I found a lunch box,Canteen,2026-08-19,12:05,FOUND,,2531148042,Uodoy,01780164166,Black Lunch Box
+Other,ITM0058,I lost my lunch box,Indoor Field,2026-08-18,13:25,LOST,,2531148042,Uodoy,01780164166,Red Lunch Box
+Other,ITM0059,I found a football,NAC101,2026-08-17,15:15,FOUND,,2531148042,Uodoy,01780164166,Football
+Other,ITM0060,I lost my headphones case,Outdoor Field,2026-08-16,11:35,LOST,,2531148042,Uodoy,01780164166,Headphone Case
+Other,ITM0061,I found a set of keys,SAC215,2026-08-15,10:40,FOUND,,2531148042,Uodoy,01780164166,Office Keys
+Other,ITM0062,I lost my water bottle,Library 610,2026-08-14,13:20,LOST,,2531148042,Uodoy,01780164166,Water Bottle
+Other,ITM0063,I found a calculator cover,Admin Building,2026-08-13,11:10,FOUND,,2531148042,Uodoy,01780164166,Calculator Cover
+Other,ITM0064,I lost my sunglasses,Parking,2026-08-12,16:30,LOST,,2531148042,Uodoy,01780164166,Sunglasses
+Other,ITM0065,I found a football jersey,Outdoor Field,2026-08-11,17:05,FOUND,,2531148042,Uodoy,01780164166,Football Jersey
+Other,ITM0066,I lost my gym bag,Indoor Field,2026-08-10,15:45,LOST,,2531148042,Uodoy,01780164166,Gym Bag
